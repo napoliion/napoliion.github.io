@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Ivy Li
-description: A physics PhD student and writer.
+name: Ivy Li
+markdown: kramdown
