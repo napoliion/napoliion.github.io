@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello workd"
+title: "Hello world"
 date: 2021-02-03
 ---
 
