@@ -1,97 +1,48 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Student
+      institution: Rice University, Houston, TX, United States of America 
+      year: 2020-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Advisor: Prof. Christopher Tunnell"
 
-- title: Experience
+    - title: B.S. in Physics, B.S. in Literature
+      institution: Massachusetts Institute of Technology, Cambridge, MA, United States of America
+      year: 2016-2020
+      description:
+        - "Research Advisors: Prof. Shuo Zhang, Prof. Kerstin Perez"
+
+- title: Awards and Fellowships
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Eric Umland Award
+      institution: Rice University
+      year: 2024
+      description: "The Eric Umland award recognizes the graduate student(s) who has contributed most to the quality of graduate student life in the physics department."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: NSF GRFP Honorable Mention
+      institution: Natural Science Foundation
+      year: 2021
+      description: "Recognized as an outstanding graduate student in NSF-supported STEM disciplines pursuing research-based master’s and doctoral degrees at accredited US institutions."
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Fulbright Fellowship
+      institution: Fulbright U.S. Student Program for Germany
+      year: 2021
+      description: "Awarded 10-month grant to undertake physics research with the dark matter research group at the University of Freiburg."
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership and Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Texas Section of the American Physical Society Executive Committee
+      institution: American Physical Society
+      year: 2024-2026
+      description:
+        - "Student Member (elected for 2024-2026 term)"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Physics and Astronomy Graduate Student Association
+      institution: Rice University
+      year: 2022-2024
+      description:
+        - "President (2023-2024)"
+        - "Treasurer (2022-2023)"
