@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ Rice University | 
+subtitle: phd student @ rice university | astroparticle physics | machine learning
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
