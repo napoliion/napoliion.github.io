@@ -16,8 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I develop machine learning (ML) models to search for dark matter through the experiment [XENONnT](https://xenonexperiment.org/) in Gran Sasso, Italy. I am advised by [Christopher Tunnell](https://profiles.rice.edu/faculty/christopher-tunnell) and get to work with cool folks both at Rice and around the world in the XENON collaboration.
+Hi! I develop machine learning models for dark matter searches with the [XENONnT](https://xenonexperiment.org/) particle detector in Italy. My advisor is [Christopher Tunnell](https://profiles.rice.edu/faculty/christopher-tunnell) and I work alongside cool folks both at Rice and around the world in the XENON collaboration.
 
-My ongoing research is in applying ML towards inferring physical parameters like the energy of particle interactions, compressing data to save on storage space, and forecasting the tail ends of signals in our time-series data. I am also a maintainer of XENONnT's MongoDB setup. I try to keep my [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6655-3685) up-to-date with my publications. 
+Currently, I have a few ongoing projects:
+ * improve the inference of the energy of particle interactions inside the detector
+ * forecast the correct waveform shapes of large ionization signals
+ * compress spatiotemporal data taken by our photosensors
 
-Though most of my work these days is machine learning and particle physics, I have never escaped the humanities. I used to be a department editor at [*The Tech*](https://thetech.com/authors/ivy-li) and still write non-technical articles on [occasion](https://www.ricethresher.org/staff/ivy-li). 
+I am also a maintainer of XENONnT's MongoDB setup. Please see my [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6655-3685) for a full list of publications.
+
+While I mostly do techy stuff these days, I like writing about different things. I was an [arts editor](https://thetech.com/authors/ivy-li) with the wonderful folks at *[The Tech](https://thetech.com)* and [write](https://napoliion.github.io/writing/) short fiction, poetry, and non-technical [articles](https://www.ricethresher.org/staff/ivy-li) on occasion.
