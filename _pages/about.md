@@ -7,9 +7,9 @@ subtitle: phd student @ rice university | astroparticle physics | machine learni
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>in progress</p>
+    <p>il11 [at] rice [dot] edu</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
