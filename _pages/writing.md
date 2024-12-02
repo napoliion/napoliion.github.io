@@ -7,13 +7,16 @@ nav: true
 nav_order: 6
 ---
 
+**Journalism**
 
+ * [Articles](https://thetech.com/authors/ivy-li) published in *The Tech*
+ * [Articles](https://www.ricethresher.org/staff/ivy-li) published in *The Rice Thresher*
 
 **Non-Technical Writing Awards**
 
  * 6x [Ilona Karmel Writing Prizes](https://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/winners/) from 2018 to 2020
  * 2019-2020 [Louis Kampf Writing Prize](https://wgs.mit.edu/kampfpastrecipients)
- * 2018 [Isabelle de Courtivron Writing Prize](https://shass.mit.edu/news/news-2019-courtivron-writing-prize-winners)
+ * 2018 [Isabelle de Courtivron Writing Prize](https://languages.mit.edu/student-awards/the-isabelle-de-courtivron-writing-prize/2019-de-courtivron-writing-prize/)
 
 **Other**
 
