@@ -1,15 +1,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student
+    - title: Ph.D. in Physics
       institution: Rice University, Houston, TX, United States of America 
-      year: ongoing
+      year: Expected May 2026
       description:
-        - "Advisor: Prof. Christopher Tunnell"
+        - "Thesis Advisor: Prof. Christopher Tunnell"
+
+    - title: M.S. in Physics
+      institution: Rice University, Houston, TX, United States of America
+      year: December 2020
+      description:
+        - "Research Advisor: Prof. Christopher Tunnell"
 
     - title: B.S. in Physics, B.S. in Literature
       institution: Massachusetts Institute of Technology, Cambridge, MA, United States of America
-      year: 2016-2020
+      year: May 2020
       description:
         - "Research Advisors: Prof. Shuo Zhang, Prof. Kerstin Perez"
 
