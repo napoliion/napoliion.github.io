@@ -21,4 +21,4 @@ nav_order: 6
 **Other**
 
  * [Featured](https://news.mit.edu/2019/mit-ivy-li-translates-faerie-queene-into-modern-visual-comic-0307) on MIT News for adapting a segment of Edmund Spenser's *The Faerie Queene* into a [comic](https://issuu.com/mit-shass/docs/fq_final_project)
- * Created poetry film *Alter/Nation* with filmmaker Aaron Thomas for Public Poetry's [Location/Houston](https://www.publicpoetry.org/locationhouston) project, screened at [REELpoetry](https://www.publicpoetry.org/reelpoetry) film festival on April 12, 2025
+ * Co-created poetry film [*Alter/Nation*](https://www.youtube.com/watch?v=jsw8HeCAU14) with filmmaker [Aaron C. Thomas](https://www.instagram.com/acthomasfilm) for [Public Poetry](https://www.instagram.com/public_poetry)'s [Location/Houston](https://www.publicpoetry.org/locationhouston) project, which premiered at the [REELpoetry](https://www.publicpoetry.org/reelpoetry) film festival on April 12, 2025 and also screened at River Oaks Theater on Aug. 27, 2025
