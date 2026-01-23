@@ -15,12 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I develop machine learning models to be used in the direct search for dark matter by particle detectors such as [XENONnT](https://xenonexperiment.org/). My research is advised by [Prof. Christopher Tunnell](https://profiles.rice.edu/faculty/christopher-tunnell). I work alongside many awesome folks both at Rice and around the world in the XENON collaboration. I also am a maintainer of XENONnT's MongoDB setup.
+Hi! I am a particle physics PhD student at Rice University with plans to defend in the fall of 2026. My research is in developing custom machine learning models to be used in the direct search for dark matter by particle detectors such as [XENONnT](https://xenonexperiment.org/). I am advised by [Prof. Christopher Tunnell](https://profiles.rice.edu/faculty/christopher-tunnell) and collaborate with many awesome folks both at Rice and around the world in the xenon TPC community. I also administrate XENONnT's MongoDB database.
 
-Currently, I have a few ongoing projects:
- - improve the inference of particle interaction energy inside the detector
- - forecast the correct waveform shapes of large ionization signals in time-series data
- - compress spatiotemporal data taken by our photosensors with autoencoders
+My research projects include
+ - a physics-informed continuous normalizing flow that learns how to transform event positions inferred from photosensor data into corrected interaction positions inside the detector, while learning the electric field lines from calibration data
+ - semi-supervised autoencoders to simultaneously compress photosensor data and extract the number of ionization electrons for XENONnT from both spatial data and time-series data
 
 Please see my [ORCID](https://orcid.org/0000-0001-6655-3685) for a full list of publications.
 
